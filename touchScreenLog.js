@@ -38,8 +38,8 @@
         $('[data-log]').css({
             width:'100%',
             position:'fixed', 
-            height:'25%',
-            top:'75%',
+            height:'50%',
+            top:'50%',
             overflow:'scroll',
             background:'#000',
             color:'#0f0',
